@@ -1,0 +1,17 @@
+{
+	"coc.preferences.formatOnSaveFiletypes": ["html", "css", "javascript", "go", "dart"],
+	"snippets.userSnippetsDirectory": "~/.config/nvim/snippets",
+	"suggest.noselect": true,
+	"list.insertMappings": {
+        "<C-n>": "normal:j",
+        "<C-p>": "normal:k"
+    },
+    "flutter.provider.enableSnippet": true,
+    "go.gofumpt": true,
+    "snippets.ultisnips.pythonPrompt": false,
+    "coc.source.vimtex.filetypes": [
+      "tex",
+      "latex",
+      "plaintex"
+    ]
+}
